@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hegemier!
-- 👀 I’m interested in software engineering, AI/machine learning, and data science. I'm currently a software engineer at Enova in Chicago, IL. 
-- 🌱 I’m currently learning Go and Ruby as well as tinkering with Tensorflow/Keras
+- 👀 I love great engineering, great ideas, and the teamwork that makes everything possible. I'm currently the CTO of UNLISTED Chicago, IL. 
+- 🌱 I’m currently building the next big proptech platform
 - 💞️ I’m looking to collaborate on ... anything startup related!
 - 📫 How to reach me ... tbd, but you can find some of my information on hegemier.net
 
